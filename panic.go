@@ -8,7 +8,7 @@ func main() {
 
 func process(input int) {
 	if input < 0 {
-		panic("khaye kardam haji")
+		panic("its not OK")
 	}
 	fmt.Println("Its ok")
 }
